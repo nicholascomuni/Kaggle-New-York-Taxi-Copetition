@@ -11,4 +11,4 @@ You can find the complete notebook by clicking <a href="https://github.com/nicho
 
 The notebook is divided in 2 parts:
 * <b>Exploratory Data Analysis</b> - where we sought to explore the dataset with fancy plots and techniques.
-* <b>Machine Learning</b> - where we trained our model with a XGBoost Regressor and predicted the competition outcomes.
+* <b>Machine Learning</b> - where we trained our model with a XGBoost Regressor model and predicted the competition outcomes.
