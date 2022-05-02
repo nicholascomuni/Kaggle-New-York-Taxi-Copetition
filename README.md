@@ -9,5 +9,6 @@ Required datasets:
 
 You can find the complete notebook by clicking <a href="https://github.com/nicholascomuni/Kaggle-New-York-Taxi-Copetition/blob/master/NY%20Taxi.ipynb">Here</a>
 
-The notebook is divided in 2 parts - 1st. Exploratory Data Analysis, where we sought to explore the dataset with fancy plots and techniques.
-And the 2nd. Machine Learning, where we trained our model with a XGBoost Regressor and predicted the competition outcomes.
+The notebook is divided in 2 parts:
+* <b>Exploratory Data Analysis</b> - where we sought to explore the dataset with fancy plots and techniques.
+* <b>Machine Learning</b> - where we trained our model with a XGBoost Regressor and predicted the competition outcomes.
